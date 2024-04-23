@@ -1,100 +1,5 @@
 [
   {
-    "objectID": "reports/prospectus.html",
-    "href": "reports/prospectus.html",
-    "title": "Project Step 2: Research statement",
-    "section": "",
-    "text": "My research is focused on the translation errors in term of faithfulness that is actually caused by literalness, appeared in English to Chinese translation made by Chinese translators.\n\n\nMy hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.\n\n\n\nMy objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.\n\n\n\nI believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.\n(Assessement in the end)\n\n\n\nThis section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#research-hypothesis",
-    "href": "reports/prospectus.html#research-hypothesis",
-    "title": "Project Step 2: Research statement",
-    "section": "",
-    "text": "My hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#research-objectives",
-    "href": "reports/prospectus.html#research-objectives",
-    "title": "Project Step 2: Research statement",
-    "section": "",
-    "text": "My objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#impact-expection",
-    "href": "reports/prospectus.html#impact-expection",
-    "title": "Project Step 2: Research statement",
-    "section": "",
-    "text": "I believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.\n(Assessement in the end)",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#literature-review",
-    "href": "reports/prospectus.html#literature-review",
-    "title": "Project Step 2: Research statement",
-    "section": "",
-    "text": "This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#data-preparation",
-    "href": "reports/prospectus.html#data-preparation",
-    "title": "Project Step 2: Research statement",
-    "section": "Data preparation",
-    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#data-analysis",
-    "href": "reports/prospectus.html#data-analysis",
-    "title": "Project Step 2: Research statement",
-    "section": "Data analysis",
-    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/prospectus.html#assessement-2",
-    "href": "reports/prospectus.html#assessement-2",
-    "title": "Project Step 2: Research statement",
-    "section": "Assessement 2",
-    "text": "Assessement 2\nIn this part of the research I find multiple articles from the past few decades, some directly provide research data for the research, and some provide examples that worth further research. What’s most challenging for me right now are the Chinese scholar articles. They form an important part of my research, while they are being hard to be found online. Lots of the articles are not open to public, or do not have a full electronic version I could use. I would have to collect sometimes parts of existed documents on Chinese internet.",
-    "crumbs": [
-      "Reports",
-      "Project Step 2: Research statement"
-    ]
-  },
-  {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "README",
@@ -125,25 +30,109 @@
     ]
   },
   {
-    "objectID": "reports/presentations.html",
-    "href": "reports/presentations.html",
-    "title": "Presentations",
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
+  },
+  {
+    "objectID": "reports/prospectus.html",
+    "href": "reports/prospectus.html",
+    "title": "Project Step 3: Data preparation",
     "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "text": "My research is focused on the translation errors in term of faithfulness that is actually caused by literalness, appeared in English to Chinese translation made by Chinese translators.\n\n\nMy hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.\n\n\n\nMy objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.\n\n\n\nI believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.\n(Assessement in the end)\n\n\n\nThis section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.",
     "crumbs": [
       "Reports",
-      "Presentations"
+      "Project Step 3: Data preparation"
     ]
   },
   {
-    "objectID": "reports/presentations.html#latest-presentations",
-    "href": "reports/presentations.html#latest-presentations",
-    "title": "Presentations",
+    "objectID": "reports/prospectus.html#research-hypothesis",
+    "href": "reports/prospectus.html#research-hypothesis",
+    "title": "Project Step 3: Data preparation",
     "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "text": "My hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.",
     "crumbs": [
       "Reports",
-      "Presentations"
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#research-objectives",
+    "href": "reports/prospectus.html#research-objectives",
+    "title": "Project Step 3: Data preparation",
+    "section": "",
+    "text": "My objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#impact-expection",
+    "href": "reports/prospectus.html#impact-expection",
+    "title": "Project Step 3: Data preparation",
+    "section": "",
+    "text": "I believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.\n(Assessement in the end)",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#literature-review",
+    "href": "reports/prospectus.html#literature-review",
+    "title": "Project Step 3: Data preparation",
+    "section": "",
+    "text": "This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#data-preparation",
+    "href": "reports/prospectus.html#data-preparation",
+    "title": "Project Step 3: Data preparation",
+    "section": "Data preparation",
+    "text": "Data preparation\nThe data needed for this research would be the examples for both the language preference itself and the translation error that is related to such language preference. The first sets of data will be used to support the argue that Chinese people have this language preference of guessing the meaning of texts in its literal form, and the second sets of data will be examples of translation errors that occurred based on it.\n\nThere are plenty of examples of taking the text too literally in Chinese language itself. I need only to translate them into English for the reference of research audience.\nI have chosen 3 examples as the second sets of data. Two of them are cases of translation errors that were once reported on news, and one of them is based on the comparsion between Chinese and Japanese characters. The examples would be analysied, including the background research that would support arguments concluded.\nFor first sets of data, and the third example provided in the second sets of data, there could be charts made to make an easier comparison between the correct meaning of words with the incorrect ones made due to literal reading.\nFor the first two examples used in the second sets of data, analyzing and discussion would be sufficient.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#data-analysis",
+    "href": "reports/prospectus.html#data-analysis",
+    "title": "Project Step 3: Data preparation",
+    "section": "Data analysis",
+    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#assessement-2",
+    "href": "reports/prospectus.html#assessement-2",
+    "title": "Project Step 3: Data preparation",
+    "section": "Assessement 2",
+    "text": "Assessement 2\nIn this part of the research I find multiple articles from the past few decades, some directly provide research data for the research, and some provide examples that worth further research. What’s most challenging for me right now are the Chinese scholar articles. They form an important part of my research, while they are being hard to be found online. Lots of the articles are not open to public, or do not have a full electronic version I could use. I would have to collect sometimes parts of existed documents on Chinese internet.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#assessment-3",
+    "href": "reports/prospectus.html#assessment-3",
+    "title": "Project Step 3: Data preparation",
+    "section": "Assessment 3",
+    "text": "Assessment 3\nIn this part of the research I have reviewed the data I collected. I divided them into two type, the ones that could be presented in charts to give a better picture of comparison, and the ones that are better analyzed and discussed. I review and re-considered if the data I collected do support my research purpose, and which different part would they be fit in. One of the examples was related to my previous interest during undergraduate study, and I might be even able to combine my previous study with my current research in the following progress.",
+    "crumbs": [
+      "Reports",
+      "Project Step 3: Data preparation"
     ]
   },
   {
@@ -166,6 +155,28 @@
     "crumbs": [
       "Reports",
       "Article"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
     ]
   }
 ]
