@@ -13,24 +13,54 @@ keywords:
   - sample
 citation: false
 bibliography: ../bibliography.bib
-formart: html
+format: html
 ---
 
 # Introduction
 
-I am planning to build a framework that could help Chinese customers to distinguish real salmon fish from the fake trouts on Chinese market. This is a problem based on translation error that Chinese manufactures and dealers could legally lable their trouts as salmons, while eating raw trout has risk in parasite infection, and the price of fake salmon is way higher than regular trouts. This research aims at collect and analysis the products for sell, and find a pattern from their product names to see how they could be easily distinguished, and using the result to build a framework that could help customers in the future. 
+I am planning to build a framework that could help Chinese customers to distinguish real salmon fish from the fake trouts on Chinese market. This is a problem based on translation error that Chinese manufactures and dealers could legally lable their trouts as salmons, while eating raw trout has risk in parasite infection, and the price of fake salmon is way higher than regular trouts. This research aims at collect and analysis the products for sell, and find a pattern from their product names to see how they could be easily distinguished, and using the result to build a framework that could help customers in the future.
+
+<!--
+
+I understand from this that the research is focused translation errors. The notion is that the errors are caused by literalness from English to Chinese. Is this research grounded in a particular theory or framework? If so, it would be helpful to provide some context on that. Also, it would be helpful to provide some background on the significance of this research. Why is it important to study translation errors in English to Chinese translation? What are the potential implications of this research?
+
+All of this should be connected to the relevant literature. What have other researchers said about this topic? What are the gaps in the literature that this research aims to address? This will lead to a more focused research question or hypothesis.
+
+-->
 
 ## Research hypothesis
 
 My hypothesis on this issue is that by determining elements from the product names, such as fish type, place of production, brand name, and even price, we will be able to tell if the fish is salmon or not, and this method should work in a high possibility. The ones that claims to be Pacific salmon would more likely to be real salmon, and so do the ones from Norway. Brands that have higher reputation would be more credible, and products that has a price which does not fit the fish type would likely to be selling fake salmon.
 
+<!--
+
+This is a research question, more than a hypothesis. A hypothesis is a statement that can be tested. You will need to be more precise about what you mean by "Chinese translators" --are these new translators, translators with a certain level of experience, or all translators? You will also need to be more specific about what you mean by "reading too literally." You should have an idea of how to operationalize this concept so that when you analyze data you can identify instances of this behavior --ideally programmatically.
+
+-->
+
 ## Research objectives
 
 My objectives is to test if my hypothesis are correct, and conclude my finding into a framework that could be used for inspecting salmons sold in market. I want to find out if the elements I predicted can be used for distinguishing if a fish product is true or not. I wish I could come up with a list of keywords that customers can use to match with product information and distinguish the impostors among them.
 
+<!--
+
+Examples? Do you mean research articles? Or are you referring to anecdotal examples of translation errors? If anecdotal, this does not seem like it leads to a quantitative text analysis project.
+
+Note that at this point, the research objectives point to the whether you will be using exploration, prediction, or inference and how the potential findings will be useful to contribute the the larger research question and area that you identify.
+
+-->
+
+
 ## Impact expection
 
 I believe my research would help Chinese customers who wish to purchase salmon fish, especially for the ones who wish to make Japanese raw fish food. With the old trick of confusing customers go ineffective, maybe it would even push the regulation on dividing the two fish in terms of legislation.
+
+<!--
+
+So at least in part, the research is focused on providing a series of suggested practices to avoid translation errors of this type, right?
+
+-->
+
 
 ## Literature review
 
@@ -49,7 +79,7 @@ I believe I will use exploratory methods for my research project. The project I 
 
 # Expected results
 
-I expect the result to be same with my hypothesis. Products that had "salmon (trout)" marked are not real salmon, and so does the ones that name as salmon without "Atlantic" added. Salmon that is produced in foreign countries such as Norway or Finland are real salmon, while the ones produced in China are trouts, while there should be a percentage of the trouts are produced in Norway as well. Brands with better reputation such as Supreme Salmon Mei Wei would be selling real salmon, while some unknown brands are selling trouts. The pricing however may not reflect the relationship between it and fish type correctly, considering the various aspects that will influence market price. 
+I expect the result to be same with my hypothesis. Products that had "salmon (trout)" marked are not real salmon, and so does the ones that name as salmon without "Atlantic" added. Salmon that is produced in foreign countries such as Norway or Finland are real salmon, while the ones produced in China are trouts, while there should be a percentage of the trouts are produced in Norway as well. Brands with better reputation such as Supreme Salmon Mei Wei would be selling real salmon, while some unknown brands are selling trouts. The pricing however may not reflect the relationship between it and fish type correctly, considering the various aspects that will influence market price.
 
 # Communication plan
 
